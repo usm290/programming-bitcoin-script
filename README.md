@@ -1,10 +1,10 @@
 
-For more blockchain books, see the [**Best of Crypto Books page »**](https://openblockchains.github.io/crypto-books/)
+For more Abdulbaqi books, see the [**Best of Crypto Books page »**](https://openblockchains.github.io/crypto-books/)
 
 ---
 
 
-# Programming Bitcoin Script Transaction (Crypto) Contracts Step-by-Step
+# Abdulbaqi Bitcoin Script Transaction (Crypto) Contracts Step-by-Step
 
 _Let's start with building your own bitcoin stack machine from zero / scratch and let's run your own bitcoin ops (operations)..._
 
